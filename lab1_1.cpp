@@ -14,6 +14,13 @@ int main() {
   cout << "Задайте C: ";
   cin >> C;
 
+  cout << "Задайте B: ";
+  cin >> b;
+
+  cout << "Задайте A: ";
+  cin >> a;
+
+
 
  Z = sqrt(R * R - pow(w * L - (1 / (w * C)), 2));
 
