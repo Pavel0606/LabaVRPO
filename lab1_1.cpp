@@ -20,7 +20,9 @@ int main() {
   cout << "Задайте A: ";
   cin >> a;
 
-
+  for (int i = 0; i < 10;) {
+	  cout << i << endl;
+  };
 
  Z = sqrt(R * R - pow(w * L - (1 / (w * C)), 2));
 
